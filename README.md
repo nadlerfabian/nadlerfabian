@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hallo, ich bin Fabian
 
-<!--
-**nadlerfabian/nadlerfabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere **Computational Data Science im Bachelor** und beschäftige mich aktuell mit **DevOps** im Modul CDS212: Versionsverwaltung, Container, CI/CD, Cloud und Monitoring.
 
-Here are some ideas to get you started:
+## Woran ich gerade lerne
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Git und GitHub für die Versionsverwaltung
+* Python (Flask) als Beispielanwendung
+* Docker, GitHub Actions, Terraform und Kubernetes
+
+## Technologien
+
+`Python` · `Git` · `Linux` · `Docker`
+
+## Kontakt
+
+* GitHub: nadlerfabian([https://github.com/GITHUB_USER](https://github.com/nadlerfabian/))
